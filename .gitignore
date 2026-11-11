@@ -1,0 +1,5 @@
+*.exe
+*.o
+loja.txt
+loja.csv
+temp.txt
